@@ -6,5 +6,5 @@ npm install
 
 construir el build
 ```
-noom run build
+npm run build
 ```
